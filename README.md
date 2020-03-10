@@ -5,4 +5,5 @@ This project was designed to put together a variety of usable 2d control scripts
 Many thanks to Bardent for assistance in the original movement and basic combat code.
 
 3/10/20:  Posted Updated Movement Control.
+
 2/18/20:  Posted Original Scripts.
